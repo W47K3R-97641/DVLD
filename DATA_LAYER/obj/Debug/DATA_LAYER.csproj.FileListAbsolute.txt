@@ -1,0 +1,6 @@
+C:\Users\amarc\Desktop\DVLD PROJECT\DATA_LAYER\bin\Debug\DATA_LAYER.dll
+C:\Users\amarc\Desktop\DVLD PROJECT\DATA_LAYER\bin\Debug\DATA_LAYER.pdb
+C:\Users\amarc\Desktop\DVLD PROJECT\DATA_LAYER\obj\Debug\DATA_LAYER.csproj.AssemblyReference.cache
+C:\Users\amarc\Desktop\DVLD PROJECT\DATA_LAYER\obj\Debug\DATA_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\amarc\Desktop\DVLD PROJECT\DATA_LAYER\obj\Debug\DATA_LAYER.dll
+C:\Users\amarc\Desktop\DVLD PROJECT\DATA_LAYER\obj\Debug\DATA_LAYER.pdb

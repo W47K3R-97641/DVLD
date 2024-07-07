@@ -1,0 +1,9 @@
+C:\Users\amarc\Desktop\DVLD PROJECT\LOGIC_LAYER\bin\Debug\LOGIC_LAYER.dll
+C:\Users\amarc\Desktop\DVLD PROJECT\LOGIC_LAYER\bin\Debug\LOGIC_LAYER.pdb
+C:\Users\amarc\Desktop\DVLD PROJECT\LOGIC_LAYER\bin\Debug\DATA_LAYER.dll
+C:\Users\amarc\Desktop\DVLD PROJECT\LOGIC_LAYER\bin\Debug\DATA_LAYER.pdb
+C:\Users\amarc\Desktop\DVLD PROJECT\LOGIC_LAYER\obj\Debug\LOGIC_LAYER.csproj.AssemblyReference.cache
+C:\Users\amarc\Desktop\DVLD PROJECT\LOGIC_LAYER\obj\Debug\LOGIC_LAYER.csproj.CoreCompileInputs.cache
+C:\Users\amarc\Desktop\DVLD PROJECT\LOGIC_LAYER\obj\Debug\LOGIC_LAYER.csproj.CopyComplete
+C:\Users\amarc\Desktop\DVLD PROJECT\LOGIC_LAYER\obj\Debug\LOGIC_LAYER.dll
+C:\Users\amarc\Desktop\DVLD PROJECT\LOGIC_LAYER\obj\Debug\LOGIC_LAYER.pdb

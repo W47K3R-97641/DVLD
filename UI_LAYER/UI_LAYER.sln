@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_LAYER", "UI_LAYER.csproj", "{D4C970B7-D17A-42E0-B21C-DC74D57CBBA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOGIC_LAYER", "..\LOGIC_LAYER\LOGIC_LAYER.csproj", "{70C92C6C-C916-4818-8BA3-125B140DAD5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATA_LAYER", "..\DATA_LAYER\DATA_LAYER.csproj", "{D6031700-AF63-4D59-A27C-41224F273BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C970B7-D17A-42E0-B21C-DC74D57CBBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C970B7-D17A-42E0-B21C-DC74D57CBBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C970B7-D17A-42E0-B21C-DC74D57CBBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C970B7-D17A-42E0-B21C-DC74D57CBBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C92C6C-C916-4818-8BA3-125B140DAD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C92C6C-C916-4818-8BA3-125B140DAD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C92C6C-C916-4818-8BA3-125B140DAD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C92C6C-C916-4818-8BA3-125B140DAD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6031700-AF63-4D59-A27C-41224F273BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6031700-AF63-4D59-A27C-41224F273BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6031700-AF63-4D59-A27C-41224F273BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6031700-AF63-4D59-A27C-41224F273BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99CAEB15-15A8-46A6-BB6C-8212A57B11B2}
+	EndGlobalSection
+EndGlobal
